@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+}
+
+#pontuacao {
+    font-size: 20px;
+    float: left;
+    margin-left: 100px;
+}
+
+#tempo {
+    font-size: 20px;
+    float: right;
+    margin-right: 100px;
+}
+
+#esbolsodesenhado {
+    color: blue;
+    font-size: 20px;
+}
